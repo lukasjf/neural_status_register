@@ -1,0 +1,98 @@
+%% Creator: Inkscape inkscape 0.92.3, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'architecture.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{557.62309361bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.45467188)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{architecture.pdf}}%
+    \put(0.73492219,0.25128945){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$z_0$\end{tabular}}}}%
+    \put(0.73296476,0.20645399){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$z_1$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{architecture.pdf}}%
+    \put(0.01231034,0.2288717){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$x$\end{tabular}}}}%
+    \put(0.08837629,0.37076036){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}clamp(0,1)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{architecture.pdf}}%
+    \put(0.13235414,0.41987232){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$V_1$\end{tabular}}}}%
+    \put(0.14184895,0.3046412){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}@\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{architecture.pdf}}%
+    \put(0.08837629,0.10174923){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}clamp(0,1)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{architecture.pdf}}%
+    \put(0.1323543,0.04110317){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$V_2$\end{tabular}}}}%
+    \put(0.14184895,0.15560995){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}@\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{architecture.pdf}}%
+    \put(0.26636246,0.2289547){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{architecture.pdf}}%
+    \put(0.39110308,0.30978841){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$sign$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{architecture.pdf}}%
+    \put(0.39046563,0.16112122){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$zero$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{architecture.pdf}}%
+    \put(0.51565441,0.2972582){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}*\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{architecture.pdf}}%
+    \put(0.50206793,0.3944327){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W^\pm$\end{tabular}}}}%
+    \put(0.50169033,0.05146251){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$W^0$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{architecture.pdf}}%
+    \put(0.51538851,0.14822664){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}*\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{architecture.pdf}}%
+    \put(0.51371497,0.22556022){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}b\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{architecture.pdf}}%
+    \put(0.63800709,0.22796013){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$+$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{architecture.pdf}}%
+    \put(0.89456505,0.25128945){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$y_0$\end{tabular}}}}%
+    \put(0.89260761,0.20645399){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$y_1$\end{tabular}}}}%
+    \put(0.70829542,0.06264202){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Learnable Parameter\end{tabular}}}}%
+    \put(0.65897261,0.0087301){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}@\end{tabular}}}}%
+    \put(0.70829542,0.00980294){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Marix Multiplication\end{tabular}}}}%
+    \put(0.82345195,0.27860983){\color[rgb]{0,0,0}\rotatebox{-90}{\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}softmax\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{architecture.pdf}}%
+    \put(0.26138137,0.3098702){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$o_1$\end{tabular}}}}%
+    \put(0.26186168,0.16047974){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$o_2$\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
